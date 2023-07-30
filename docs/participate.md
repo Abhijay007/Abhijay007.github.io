@@ -15,8 +15,7 @@ The Uptane standardization initiative is under the direction of the Uptane Steer
 
 ## Membership Status in JDF/Uptane
 
-We welcome all interested parties to join either mailing list, independent of<br>
-whether or not your organization joins the Joint Development Foundation Projects, LLC, Uptane Series. (However, if your organization does wish to join this group, please contact jcappos@nyu.edu for more information on how to do so.)
+We welcome all interested parties to join either mailing list, independent of whether or not your organization joins the Joint Development Foundation Projects, LLC, Uptane Series. (However, if your organization does wish to join this group, please contact jcappos@nyu.edu for more information on how to do so.)
 
 ## Code Contributions
 
